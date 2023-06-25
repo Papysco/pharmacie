@@ -1,0 +1,32 @@
+Présentation du projet : ''Système de gestion des stocks avec suivi 
+des dates d'expiration pour les pharmacies''.
+
+Le projet vise à développer un système de gestion des stocks 
+pour les pharmacies, intégrant un suivi efficace des dates d'expiration des médicaments. 
+Cette solution permettra aux pharmacies de gérer leur inventaire, 
+d'enregistrer les entrées et les sorties de médicaments, 
+tout en surveillant de manière proactive les dates de péremption.
+
+Fonctionnalités :
+- Gestion des stocks : Enregistrement et suivi des médicaments, quantités disponibles etc.
+- Enregistrement des entrées et des sorties : Traçabilité complète des mouvements de stock.
+- Suivi des dates d'expiration : Lister tous les médicaments proches de leur péremption.
+- Rapports d'expiration : Génération de rapports sur les médicaments proches de l'expiration.
+- Interface utilisateur conviviale : Visualisation intuitive de l'inventaire, des alertes et des rapports.
+- Historique des transactions : Enregistrement complet des mouvements de stock pour une traçabilité accrue.
+- Sauvegarde des données : Possibilité de sauvegarder les données localement ou dans un serveur.
+- Gestion des provisions aupres des fournisseurs.
+
+Ce projet permettra aux pharmacies de gérer efficacement leur inventaire de médicaments,
+d'éviter les problèmes liés aux médicaments périmés.
+En intégrant un suivi des dates d'expiration, le système aidera les pharmaciens à prendre des décisions,
+à prévenir les ventes de médicaments périmés et à optimiser leurs opérations.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+

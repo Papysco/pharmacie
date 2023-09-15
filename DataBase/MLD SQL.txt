@@ -1,0 +1,23 @@
+pharmacien (  #id_pharmacien,   prenom,   nom,   admin,   telephone,   email,   mdp  )
+
+medicament (  #id_medicament,   nom,   type,   prix,   date_fabrication,   date_expiration,   posologie,   id_stock )
+
+vente (  #id_vente, id_facture_vente , date_vente, quantite, id_pharmacien, id_medicament, id_facture_vente )
+
+commande (  #id_commande,   date_commande,   quantite,   id_pharmacien,   id_fournisseur,   id_medicament,   id_facture  )
+
+stock (  #id_stock,   #id_medicament,   quantite  )
+
+fournisseur (  #id_fournisseur,   prenom,   nom,   num_tel  )
+
+facture_vente (  #id_facture_vente, dateFacture,   prenom_client,   nom_client,   numero_client  )
+
+facture_commande (  #id_facture,   date_facture  )
+
+
+
+
+
+
+
+
